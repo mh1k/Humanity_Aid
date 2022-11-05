@@ -60,11 +60,22 @@
                   <a href="event.php">Events</a>
                 </li>
                 <li>
-                  <a href="volunteer.php">Volunteer</a>
+                  <a href="gallery.php">Gallery</a>
                 </li>
+                <li>
+                  <a href="volunteer.php">Volunteer</a>
+                </li> 
                 <li>
                   <a href="about.php">About Us</a>
                 </li>
+                <!-- <li>
+                  <a href="about.php">About</a>
+                  <ul class="dropdown" style="right: 0px; display: none;">
+                    <li><a href="gallery-3.html">Volunteer</a></li>
+                    <li><a href="gallery-1.html">About Us</a></li>
+                    <li><a href="gallery-2.html">Contact Us</a></li>
+                  </ul>
+                </li> -->
                 <li>
                   <a href="contact.php">Contact Us</a>
                 </li>

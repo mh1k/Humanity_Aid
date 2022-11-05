@@ -32,34 +32,34 @@
                         <article class="col-md-6 col-sm-6 col-xs-12">
                             <div class="item clearfix">
                                 <figure class="img-holder">
-                                    <a href="event-1.php"><img src="images/event/eidcloth1.jpg" alt="" /></a>
+                                    <a href="single-event.php"><img src="images/event/eidcloth1.jpg" alt="" /></a>
                                     <div class="overlay2">
-                                        <a href="event-1.php" class="thm-btn">read more</a>
+                                        <a href="single-event.php" class="thm-btn">read more</a>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
                                     <div class="date">25 <br /><span>April 2022</span></div>
-                                    <a href="event-1.php">
+                                    <a href="single-event.php">
                                         <h3>Street children's Eid gift</h3>
                                     </a>
-                                    <div class="post-meta">
+                                    < class="post-meta">
                                         <i class="fa fa-clock-o"></i>Started On: 10.30am
                                         <br /><i class="fa fa-map-marker"></i> TSC, Dhaka
-                                    </div>
+                                single-event
                                 </div>
                             </div>
                         </article>
                         <article class="col-md-6 col-sm-6 col-xs-12">
                             <div class="item clearfix">
                                 <figure class="img-holder">
-                                    <a href="event-2.php"><img src="images/event/stationaryevent1.jpg" alt="" /></a>
+                                    <a href="single-event.php"><img src="images/event/stationaryevent1.jpg" alt="" /></a>
                                     <div class="overlay2">
-                                        <a href="event-2.php" class="thm-btn">read more</a>
+                                        <a href="single-event.php" class="thm-btn">read more</a>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
                                     <div class="date">01 <br /><span>Apr 2022</span></div>
-                                    <a href="event-2.php">
+                                    <a href="single-event.php">
                                         <h3>Donate for School Stationary</h3>
                                     </a>
                                     <div class="post-meta">
@@ -72,14 +72,14 @@
                         <article class="col-md-6 col-sm-6 col-xs-12">
                             <div class="item clearfix">
                                 <figure class="img-holder">
-                                    <a href="event-3.php"><img src="images/event/booldevent.jpg" alt="" /></a>
+                                    <a href="single-event.php"><img src="images/event/booldevent.jpg" alt="" /></a>
                                     <div class="overlay2">
-                                        <a href="event-3.php" class="thm-btn">read more</a>
+                                        <a href="single-event.php" class="thm-btn">read more</a>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
                                     <div class="date">26 <br /><span>March 2022</span></div>
-                                    <a href="event-3.php">
+                                    <a href="single-event.php">
                                         <h3>Blood Donation Campaign</h3>
                                     </a>
                                     <div class="post-meta">
@@ -93,14 +93,14 @@
                         <article class="col-md-6 col-sm-6 col-xs-12">
                             <div class="item clearfix">
                                 <figure class="img-holder">
-                                    <a href="event-4.php"><img src="images/event/handsanitizer1.jpg" alt="" /></a>
+                                    <a href="single-event.php"><img src="images/event/handsanitizer1.jpg" alt="" /></a>
                                     <div class="overlay2">
-                                        <a href="event-4.php" class="thm-btn">read more</a>
+                                        <a href="single-event.php" class="thm-btn">read more</a>
                                     </div>
                                 </figure>
                                 <div class="lower-content">
                                     <div class="date">20 <br /><span>April 2020</span></div>
-                                    <a href="event-4.php">
+                                    <a href="single-event.php">
                                         <h3>Hand Sanitizer Distribution</h3>
                                     </a>
                                     <div class="post-meta">
